@@ -6,7 +6,7 @@
   <link href="http://zhaowa00.github.io/atom.xml" rel="self"/>
   
   <link href="http://zhaowa00.github.io/"/>
-  <updated>2022-07-10T14:23:17.696Z</updated>
+  <updated>2022-07-11T08:04:19.831Z</updated>
   <id>http://zhaowa00.github.io/</id>
   
   <author>
@@ -17,39 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://zhaowa00.github.io/2022/07/10/hello-world%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <id>http://zhaowa00.github.io/2022/07/10/hello-world%20-%20%E5%89%AF%E6%9C%AC/</id>
-    <published>2022-07-10T14:19:54.046Z</published>
-    <updated>2022-07-10T14:23:17.696Z</updated>
+    <title>我的作品集</title>
+    <link href="http://zhaowa00.github.io/2022/07/14/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
+    <id>http://zhaowa00.github.io/2022/07/14/%E4%BD%9C%E5%93%81%E9%9B%86/</id>
+    <published>2022-07-14T00:00:00.000Z</published>
+    <updated>2022-07-11T08:04:19.831Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>00</p><p><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E4%BD%9C%E5%93%81%E9%9B%86.pdf" alt="0000"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>一些日常速写作品，同时上传了pdf格式。（<a href="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E4%BD%9C%E5%93%81%E9%9B%86.pdf">点击此处查看</a>）</p><span id="more"></span><hr><hr><p><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/fb7ec515851e3de9e614b2a7cf5417b.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/f9d879d4252a83e949708ff9d628c85.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/ea1fff5dffc13aeef9efb68295fac24.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/e510b693c4c95ab79c74bd981139881.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/cce7c437ee073678fb1d5f3a66b0e49.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/b213095c5a273ac359d62e53c5a112d.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/b60aaa51e125ceaf30f2550fa3f5e08.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/2365e26e61d14d86f2d4b070cccaf49.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/94bbf5733fa203b6c8855ea1c8f9e75.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/9f64751679a5603771b066949574a7c.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/7ae18dcc0441f068d6b781c5602afe3.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/fe1ac740deb6f79ffe3c59ff355e3bf.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/5f575a95fe861857d5a1f949b65cf2f.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/0f3aa491a812cbaa54ec1610ca7e644.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/0eecb1832cb96aa9d70f4bf49179126.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/0b0fa470af98b24f4f6e442a7544403.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/7ae18dcc0441f068d6b781c5602afe3.jpg"></p><hr><hr><p><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/f7335e886cd8f216a1c44ae5a1e802b.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/f1b25b212abff2776be1e8bb047449c.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/e0ac666ea05f1fbe9d9375a74dfa8b6.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/be7689b6186e62fb3fae857cfdc60c7.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/ad229483c2ee5312508bc53bd94c575.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/8226dc19b0652e701a578bb11fb749e.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/550a3520d581bf1f3096fa55ebd8dd2.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/93bbfcb2b617895e077d7f521ea7ea7.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/79b778e4eccb1caab2d135d8b4b22e0.jpg"><br><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/6d77b45f4e5a0d7412a33b06f1e3eee.jpg"></p><hr><hr>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;一些日常速写作品，同时上传了pdf格式。（&lt;a href=&quot;https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E4%BD%9C%E5%93%81%E9%9B%86.pdf&quot;&gt;点击此处查看&lt;/a&gt;）&lt;/p&gt;</summary>
     
     
     
-    <category term="&lt;建立&gt;" scheme="http://zhaowa00.github.io/categories/%E5%BB%BA%E7%AB%8B/"/>
+    <category term="作品集" scheme="http://zhaowa00.github.io/categories/%E4%BD%9C%E5%93%81%E9%9B%86/"/>
     
     
   </entry>
   
   <entry>
-    <title>你好世界</title>
-    <link href="http://zhaowa00.github.io/2022/07/08/hello-world/"/>
-    <id>http://zhaowa00.github.io/2022/07/08/hello-world/</id>
+    <title>个人简历</title>
+    <link href="http://zhaowa00.github.io/2022/07/08/jianli/"/>
+    <id>http://zhaowa00.github.io/2022/07/08/jianli/</id>
     <published>2022-07-08T00:00:00.000Z</published>
-    <updated>2022-07-11T00:14:16.361Z</updated>
+    <updated>2022-07-11T08:12:09.110Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>测试节奏即可获得开始就回复男男女女吗，从内心，吗v能否获得很健康费米能级国际课程v街上的美女帅哥结婚后必须你把你的不顾积极肯定是框架和艰苦户籍科多花时间客户决定恢复可见数据库和捷克大使馆的就十分艰苦户籍科社会尽快发货数据库的环境开发环境看到在南京的看法和我会哭的，美女。</p><span id="more"></span><p>正文在此</p><p>00</p><p><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E4%BD%9C%E5%93%81%E9%9B%86.pdf" alt="0000"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>我的个人简历。上传了一份pdf格式。（<a href="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E8%B5%B5%E6%98%8A%E7%BF%94%E7%9A%84%E7%AE%80%E5%8E%861657524387.pdf">点击此处查看</a>）</p><span id="more"></span><p><img src="https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E7%AE%80%E5%8E%86.png" alt="简历"></p>]]></content>
     
     
     <summary type="html">&lt;hr&gt;
-&lt;p&gt;测试节奏即可获得开始就回复男男女女吗，从内心，吗v能否获得很健康费米能级国际课程v街上的美女帅哥结婚后必须你把你的不顾积极肯定是框架和艰苦户籍科多花时间客户决定恢复可见数据库和捷克大使馆的就十分艰苦户籍科社会尽快发货数据库的环境开发环境看到在南京的看法和我会哭的，美女。&lt;/p&gt;</summary>
+&lt;p&gt;我的个人简历。上传了一份pdf格式。（&lt;a href=&quot;https://zhaowazhao.oss-cn-qingdao.aliyuncs.com/%E8%B5%B5%E6%98%8A%E7%BF%94%E7%9A%84%E7%AE%80%E5%8E%861657524387.pdf&quot;&gt;点击此处查看&lt;/a&gt;）&lt;/p&gt;</summary>
     
     
     
